@@ -5,8 +5,8 @@ const HomePage = () => {
 
   return (
     <>
-      <h1>Home Page</h1>
-      <p>Welcome to my portfolio</p>
+      <h1>Welcome</h1>
+      <p>This website was created by me to show you a little bit about my computer science adventures!</p>
       
     </>
   )

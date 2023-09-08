@@ -4,7 +4,7 @@ export default function Resume(){
   
         <div>
           <h2>Resume</h2>
-            <p>hey im sam</p>
+            <p>to be added when resume is made</p>
         </div>
   
   );
