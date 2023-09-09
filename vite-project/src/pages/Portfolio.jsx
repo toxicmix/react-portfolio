@@ -1,6 +1,6 @@
 import Carousel from 'react-bootstrap/Carousel';
 import CarouselImage1 from '../assets/arms.png';
-import CarouselImage3 from '../assets/minecraft.png';
+//import CarouselImage3 from '../assets/minecraft.png';
 
 export default function Portfolio(){
 
@@ -25,7 +25,7 @@ export default function Portfolio(){
               </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
-              <img src= {CarouselImage3} text="Third slide" />
+              <img src= {CarouselImage1} text="Third slide" />
               <Carousel.Caption>
                 <h3>Modded minecraft</h3>
                 <p>
